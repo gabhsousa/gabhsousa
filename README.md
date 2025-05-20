@@ -30,6 +30,6 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabhsousa&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabhsousa&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabhsousa&layout=compact&langs_count=4&theme=tokyonight" />
 </p>
 
