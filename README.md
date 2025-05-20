@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou Gabriel Henrique Cavalcante de Sousa
-
 🎓 Graduando em Engenharia da Computação - **UFPB - 2023.2**  
 🤖 Membro da *Robotics and Automation Society* - **IEEE UFPB**  
 📡 Entusiasta de **Robótica** e **Sistemas Embarcados**  
